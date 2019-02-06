@@ -3,9 +3,7 @@
   "version": "0.5.5",
   "private": false,
   "main": "dist/code-surfer.js",
-  "files": [
-    "dist"
-  ],
+  "files": ["dist"],
   "scripts": {
     "build": "babel ./src -d ./dist --ignore test.js",
     "build:watch": "yarn build --watch --source-maps",
@@ -14,7 +12,8 @@
   },
   "dependencies": {
     "glamor": "^2.20.40",
-    "prism-react-renderer": "^0.1.3"
+    "prism-react-renderer":
+      "luc-tielen/prism-react-renderer#a7643cee60573549d666ac69d0a76262e207ea11"
   },
   "peerDependencies": {
     "prop-types": ">=15.0.0",
@@ -32,7 +31,8 @@
   "author": "pomber",
   "license": "MIT",
   "repository": "https://github.com/pomber/code-surfer",
-  "description": "React component for scrolling, zooming and highlighting code.",
+  "description":
+    "React component for scrolling, zooming and highlighting code.",
   "keywords": [
     "mdx",
     "mdx-deck",
