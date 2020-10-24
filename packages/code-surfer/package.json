@@ -13,7 +13,7 @@
   "dependencies": {
     "glamor": "^2.20.40",
     "prism-react-renderer":
-      "luc-tielen/prism-react-renderer#a7643cee60573549d666ac69d0a76262e207ea11"
+      "luc-tielen/prism-react-renderer#f347c012021c4f394582e033331ceec7b7e0081e"
   },
   "peerDependencies": {
     "prop-types": ">=15.0.0",

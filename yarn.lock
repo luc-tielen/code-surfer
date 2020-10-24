@@ -12146,9 +12146,9 @@ printj@~1.1.0:
   version "1.1.2"
   resolved "http://registry.npmjs.org/printj/-/printj-1.1.2.tgz#d90deb2975a8b9f600fb3a1c94e3f4c53c78a222"
 
-prism-react-renderer@luc-tielen/prism-react-renderer#a7643cee60573549d666ac69d0a76262e207ea11:
+prism-react-renderer@luc-tielen/prism-react-renderer#f347c012021c4f394582e033331ceec7b7e0081e:
   version "0.1.5"
-  resolved "https://codeload.github.com/luc-tielen/prism-react-renderer/tar.gz/a7643cee60573549d666ac69d0a76262e207ea11"
+  resolved "https://codeload.github.com/luc-tielen/prism-react-renderer/tar.gz/f347c012021c4f394582e033331ceec7b7e0081e"
 
 prismjs@1.6:
   version "1.6.0"
